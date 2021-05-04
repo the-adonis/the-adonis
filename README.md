@@ -1,0 +1,4 @@
+-  Yo, I’m @the-adonis
+-  I’m interested in Python, Javascript/TS, Rust, AWS 
+-  I’m looking to collaborate on , Github, Jupiter, AWS
+-  How to reach me email theadonisjimenez@icloud.com
